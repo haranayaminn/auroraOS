@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "AuroraOS",
+  "short_name": "AuroraOS",
+  "description": "自分のアプリをまとめて起動するホーム画面",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#061126",
+  "theme_color": "#07152d",
+  "icons": []
+}
